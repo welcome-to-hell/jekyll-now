@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
-permalink: /home/
+title: Oh no
+permalink: /oh-no/
 ---
 oh no

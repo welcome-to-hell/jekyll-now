@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Welcome to Hell!
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: oh no
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://images-ext-2.discordapp.net/external/Yh9gdW7zkdd1WVOL_jrQS_iVuvWiX0qX3tX5QTMYKHM/%3Fsize%3D128/https/cdn.discordapp.com/icons/256602148098408458/85f8c47a47686e4860f5a80696a06851.jpg
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://welcome-to-hell.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
